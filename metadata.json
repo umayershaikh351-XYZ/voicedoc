@@ -1,0 +1,6 @@
+{
+  "name": "Voicedoc",
+  "description": "AI-powered phone support agent that diagnoses and auto-fixes phone issues with voice commands, family remote support, and repair booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Voicedoc</string>
+    <string name="accessibility_service_description">Voicedoc uses Accessibility to assist with automated troubleshooting, adjusting stuck settings, and executing user-approved fixes.</string>
+</resources>
